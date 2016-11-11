@@ -1,13 +1,13 @@
-class Blutti < Formula
+class Awsssh < Formula
   desc "ssh made easier on aws"
-  homepage "https://github.com/Mahlstrom/homebrew-blutti"
-  head "https://github.com/Mahlstrom/homebrew-blutti.git"
+  homepage "https://github.com/Mahlstrom/homebrew-awsssh"
+  head "https://github.com/Mahlstrom/homebrew-awsssh.git"
 
   bottle :unneeded
 
   def install
-    bin.install 'blutti'
-    bash_completion.install "bash_completion" => "blutti"
+    bin.install 'awsssh'
+    bash_completion.install "bash_completion" => "awsssh"
   end
 
   def caveats; <<-EOS.undent
