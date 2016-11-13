@@ -6,7 +6,7 @@ brew install awsssh
 ```
 
 
-Please add this to your ~/.bash_profile
+If you don't have bash-completion installed, please add this to your ~/.bash_profile
 ```
 . "/usr/local/etc/bash_completion.d/awsssh"
 ```
