@@ -2,7 +2,7 @@
 ##Installation
 ```
 brew tap Mahlstrom/awsssh
-brew install --HEAD awsssh
+brew install awsssh
 ```
 
 
