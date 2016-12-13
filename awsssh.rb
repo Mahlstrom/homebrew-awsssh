@@ -1,8 +1,8 @@
 class Awsssh < Formula
   desc "ssh made easier on aws"
   homepage "https://github.com/Mahlstrom/awsssh"
-  url "https://github.com/Mahlstrom/awsssh/archive/0.3.zip"
-  sha256 "8ef03e8a5108eb9be4754d0615d6c5c989b9af0fa120a13da6bf2759691fb493"
+  url "https://github.com/Mahlstrom/awsssh/archive/0.3.1.zip"
+  sha256 "344fcb912475e6bdd54312cff3944f929092ec36f200a85119f5d7962ff7a3da"
   head "https://github.com/Mahlstrom/awsssh.git"
 
   bottle :unneeded
